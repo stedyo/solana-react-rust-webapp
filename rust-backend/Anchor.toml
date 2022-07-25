@@ -1,0 +1,15 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.devnet]
+purchasingBackEnd = "HvjBy984rYVNF38QgbGPEf4MV1YZchHTqp28ietK4kuh"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/szd/.config/solana/id.json"
+
+[scripts]
+test = "node tests/purchasingBackEnd.js"

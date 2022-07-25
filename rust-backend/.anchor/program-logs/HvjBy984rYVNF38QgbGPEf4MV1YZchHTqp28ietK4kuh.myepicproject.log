@@ -1,0 +1,19 @@
+Streaming transaction logs mentioning HvjBy984rYVNF38QgbGPEf4MV1YZchHTqp28ietK4kuh. Confirmed commitment
+Transaction executed in slot 150282092:
+  Signature: yCWPy8ZNLBts6xi6fXKw4Whejzm58cQTUE2XvBA72SY4HvBAB8ABbxmwfFd4iy4ZHMDxAkcC4m4DA9sEMre3SHc
+  Status: Ok
+  Log Messages:
+    Program HvjBy984rYVNF38QgbGPEf4MV1YZchHTqp28ietK4kuh invoke [1]
+    Program log: Instruction: StartStuffOff
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program HvjBy984rYVNF38QgbGPEf4MV1YZchHTqp28ietK4kuh consumed 7384 of 200000 compute units
+    Program HvjBy984rYVNF38QgbGPEf4MV1YZchHTqp28ietK4kuh success
+Transaction executed in slot 150282093:
+  Signature: 28YpbRj426UeAj13w6VFBFdN2GBFzATB85QK9RRfAxzDdgZjBM2dxoEps1FV6XjXEc9qRjQqEr4RuviBaKxuDHFX
+  Status: Ok
+  Log Messages:
+    Program HvjBy984rYVNF38QgbGPEf4MV1YZchHTqp28ietK4kuh invoke [1]
+    Program log: Instruction: AddGif
+    Program HvjBy984rYVNF38QgbGPEf4MV1YZchHTqp28ietK4kuh consumed 3505 of 200000 compute units
+    Program HvjBy984rYVNF38QgbGPEf4MV1YZchHTqp28ietK4kuh success

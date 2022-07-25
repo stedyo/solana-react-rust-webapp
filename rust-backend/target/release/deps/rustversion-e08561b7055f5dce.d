@@ -1,0 +1,20 @@
+/Users/szd/Dev/web3/myepicproject/target/release/deps/librustversion-e08561b7055f5dce.dylib: /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/lib.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/attr.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/bound.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/constfn.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/date.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/error.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/expand.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/expr.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/iter.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/release.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/time.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/token.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/version.rs /Users/szd/Dev/web3/myepicproject/target/release/build/rustversion-00800a080f92104f/out/version.expr
+
+/Users/szd/Dev/web3/myepicproject/target/release/deps/rustversion-e08561b7055f5dce.d: /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/lib.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/attr.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/bound.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/constfn.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/date.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/error.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/expand.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/expr.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/iter.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/release.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/time.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/token.rs /Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/version.rs /Users/szd/Dev/web3/myepicproject/target/release/build/rustversion-00800a080f92104f/out/version.expr
+
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/lib.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/attr.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/bound.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/constfn.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/date.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/error.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/expand.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/expr.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/iter.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/release.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/time.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/token.rs:
+/Users/szd/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.8/src/version.rs:
+/Users/szd/Dev/web3/myepicproject/target/release/build/rustversion-00800a080f92104f/out/version.expr:
+
+# env-dep:OUT_DIR=/Users/szd/Dev/web3/myepicproject/target/release/build/rustversion-00800a080f92104f/out

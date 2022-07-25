@@ -1,0 +1,15 @@
+Ledger location: .anchor/test-ledger
+Log: .anchor/test-ledger/validator.log
+Initializing...
+Waiting for fees to stabilize 1...
+Waiting for fees to stabilize 2...
+Connecting...
+Identity: EkxkNaCp6TkcnipDhEWSw5Xav8ExaG54EBkRS21u89D9
+Genesis Hash: 44Mpv1aJoGCB8k3EB8QHVC7vGFnMX9hu1xmDZDGGuRWc
+Version: 1.10.32
+Shred Version: 52897
+Gossip Address: 127.0.0.1:1024
+TPU Address: 127.0.0.1:1027
+JSON RPC URL: http://127.0.0.1:8899
+00:00:01 | Processed Slot: 1 | Confirmed Slot: 1 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 1 | ◎500.000000000
+00:00:01 | Processed Slot: 1 | Confirmed Slot: 1 | Finalized Slot: 0 | Full Snapshot Slot: - | Incremental Snapshot Slot: - | Transactions: 1 | ◎500.000000000
